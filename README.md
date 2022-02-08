@@ -11,10 +11,10 @@
   [Link](https://docs.github.com/de/ "Github Dokumentation")
 
 ## Interner Link
-  (/image/Download.jpg)
+  (image/motion-graphic-png.png)
 
 ## Bilder
-  [Link](https://cdn.dribbble.com/users/1427228/screenshots/16690281/dribbble.png?compress=1&resize=400x300/ "Externes Bild")
+  [Link](https://www.kibrispdr.org/dwn/8/motion-graphic-png.png/ "Externes Bild")
 
 ## Emojis
 
