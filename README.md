@@ -1,31 +1,31 @@
-# ~~Authring~~
+## **Authring**
 # Markdown mit Github Geschmack
 
-##Checkboxes
+## Checkboxes
   - [x] [Externer Link](#Externerlink)
   - [x] [Interner Link](#Internerlink)
   - [x] [Bilder](#Bilder)
   - [x] [Emogjis](#Emojis)
 
-##Externer Link
+## Externer Link
   [Link](https://docs.github.com/de/ "Github Dokumentation")
 
-##Interner Link
+## Interner Link
   [Link](/image/Download.jpg
 
-##Bilder
+## Bilder
 
-##Emojis
-  :relaxed:  
+## Emojis
+
+  :relaxed:   :relaxed:
   :cold_face:
   :exploding_head:
+  
+## Tabellen
+  |  Farbe |  Große |
+  |--------|--------|
+  |  Gelb  |   39   |
+  |  Grün  |   42   |
 
-##Tabellen
-|  Farbe |  Große |
-|--------|--------|
-|  Gelb  |   39   |
-|  Grün  |   42   |
-
-
- **Überschrift 1** 
- ~~Überschrift 2~~
+ 
+ ~~Das mit dem Bild, nicht geschaft..~~
