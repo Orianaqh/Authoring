@@ -3,21 +3,22 @@
 
 ## Checkboxes
   - [x] [Externer Link](#Externerlink)
-  - [x] [Interner Link](#Internerlink)
-  - [x] [Bilder](#Bilder)
+  - [ ] [Interner Link](#Internerlink)
+  - [ ] [Bilder](#Bilder)
   - [x] [Emogjis](#Emojis)
 
 ## Externer Link
   [Link](https://docs.github.com/de/ "Github Dokumentation")
 
 ## Interner Link
-  [Link](/image/Download.jpg
+  (/image/Download.jpg)
 
 ## Bilder
+  [Link](https://cdn.dribbble.com/users/1427228/screenshots/16690281/dribbble.png?compress=1&resize=400x300/ "Externes Bild")
 
 ## Emojis
 
-  :relaxed:   :relaxed:
+  :relaxed:
   :cold_face:
   :exploding_head:
   
