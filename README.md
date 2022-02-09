@@ -27,4 +27,5 @@
   |  Grün  |   42   |
 
  
- ~~Das mit dem Bild, nicht geschaft..~~
+ ~~Das mit dem Bild, nicht geschaft.~~
+ ~~Jetz doch geschaft.~~
