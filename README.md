@@ -1,26 +1,24 @@
-## **Authring**
+## ***Authring***
 # Markdown mit Github Geschmack
 
 ## Checkboxes
-  - [x] [Externer Link](#Externerlink)
-  - [ ] [Interner Link](#Internerlink)
+  - [x] [Externer Link](#Externer-link)
+  - [ ] [Interner Link](#Interner-link)
   - [ ] [Bilder](#Bilder)
   - [x] [Emogjis](#Emojis)
 
 ## Externer Link
-  [Link](https://docs.github.com/de/ "Github Dokumentation")
+  [Externer Link zur Github Dokumentation](https://docs.github.com/de)
 
 ## Interner Link
-  (image/motion-graphic-png.png)
+  ![Interner Link](/image/motion-graphic-png.png)
 
 ## Bilder
   [Link](https://www.kibrispdr.org/dwn/8/motion-graphic-png.png/ "Externes Bild")
 
 ## Emojis
 
-  :relaxed:
-  :cold_face:
-  :exploding_head:
+  :relaxed: :cold_face: :exploding_head:
   
 ## Tabellen
   |  Farbe |  Große |
