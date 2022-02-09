@@ -5,8 +5,8 @@
   - [x] [Externer Link](#Externer-link)
   - [ ] [Interner Link](#Interner-link)
   - [ ] [Bilder](#Bilder)
-  - [x] [Emogjis](#Emojis)
-
+  - [x] [Emojis](#Emojis)
+  - [x] [Tabellen](#Tabelle)
 ## Externer Link
   [Externer Link zur Github Dokumentation](https://docs.github.com/de)
 
@@ -14,13 +14,13 @@
   ![Interner Link](/image/motion-graphic-png.png)
 
 ## Bilder
-  [Link](https://www.kibrispdr.org/dwn/8/motion-graphic-png.png/ "Externes Bild")
+  [Externes Bild](https://pbs.twimg.com/media/DcGXYAsX0AETn2D?format=jpg&name=large)
 
 ## Emojis
 
   :relaxed: :cold_face: :exploding_head:
   
-## Tabellen
+## Tabelle
   |  Farbe |  Große |
   |--------|--------|
   |  Gelb  |   39   |
